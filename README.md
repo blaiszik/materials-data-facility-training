@@ -6,11 +6,12 @@
 
 ### Links
 * Materials Data Facility: http: https://www.materialsdatafacility.org
+* Globus Jupyter Notebook Examples: https://github.com/globus/globus-jupyter-notebooks
 
 * Globus SDK Documentation http://globus.github.io/globus-sdk-python/
 * Globus SDK Source: https://github.com/globus/globus-sdk-python
 * Globus CLI Source: https://github.com/globus/globus-cli
-* Globus Jupyter Notebook Examples: https://github.com/globus/globus-jupyter-notebooks
+
 
 ### /docs
 Folder containing relevant docs
