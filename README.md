@@ -6,6 +6,11 @@
 
 ### Links
 * Materials Data Facility: http: https://www.materialsdatafacility.org
+
+
+#### Globus Links
+* Sign up for Globus: https://www.globus.org/app/SignUp
+* Globus Connect Install: https://www.globus.org/globus-connect
 * Globus Jupyter Notebook Examples: https://github.com/globus/globus-jupyter-notebooks
 
 * Globus SDK Documentation http://globus.github.io/globus-sdk-python/
