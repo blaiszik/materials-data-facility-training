@@ -7,7 +7,6 @@
 ### Links
 * Materials Data Facility: http: https://www.materialsdatafacility.org
 
-
 #### Globus Links
 * Sign up for Globus: https://www.globus.org/app/SignUp
 * Globus Connect Install: https://www.globus.org/globus-connect
@@ -17,7 +16,14 @@
 * Globus SDK Source: https://github.com/globus/globus-sdk-python
 * Globus CLI Source: https://github.com/globus/globus-cli
 
+# Schedule
+* 9-9:30a	Overview and Discussion of the Materials Data Facility (MDF)
+* 9:30-10a	Sign up for Globus and MDF, Set up an Endpoint
+* 10-11a	Identification of Key Datasets and Metadata Formulation
+* 11a-12p	Ingest datasets into MDF
 
+
+# Structure
 ### /docs
 Folder containing relevant docs
 
