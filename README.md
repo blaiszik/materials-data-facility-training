@@ -5,7 +5,8 @@
 ### Resources for Materials Data Facility (MDF) training for May 3, 2016 workshop at CHiMaD headquarters.
 
 ### Links
-* Materials Data Facility: http: https://www.materialsdatafacility.org
+* Materials Data Facility: https://www.materialsdatafacility.org
+* Google Doc https://docs.google.com/document/d/1Nm4mCRo3JLZD8KW0mqwyBUCN6lHWfmKSkO-x6lmgZXw/edit?usp=sharing
 
 #### Globus Links
 * Sign up for Globus: https://www.globus.org/app/SignUp
