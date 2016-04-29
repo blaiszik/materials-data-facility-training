@@ -31,8 +31,8 @@ https://docs.google.com/document/d/1Nm4mCRo3JLZD8KW0mqwyBUCN6lHWfmKSkO-x6lmgZXw/
 | 9-9:30a  | Overview and Discussion of the Materials Data Facility (MDF) |
 | 9:30-10a | Sign up for Globus and MDF, Set up an Endpoint               |
 | 10-10:15a | Globus SDK Demo                                             |
-| 10:15-10:25a | JSON tutorial (may skip)                                 |
-| 10:15-11a   | Identification of Key Datasets and Metadata Formulation w/ Discussion |
+| 10:15-10:30a | JSON tutorial (may skip)                                 |
+| 10:30-11a   | Identification of Key Datasets and Metadata Formulation w/ Discussion |
 | 11a-12p  | Ingest demo datasets into MDF                                |
 
 
