@@ -7,6 +7,7 @@
 ### Links
 * Materials Data Facility: https://www.materialsdatafacility.org
 * Google Doc https://docs.google.com/document/d/1Nm4mCRo3JLZD8KW0mqwyBUCN6lHWfmKSkO-x6lmgZXw/edit?usp=sharing
+* JSONLint http://jsonlint.com
 
 #### Globus Links
 * Sign up for Globus: https://www.globus.org/app/SignUp
