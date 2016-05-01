@@ -1,6 +1,6 @@
 # materials-data-facility-training
 
-# Schedule
+# Workshop Schedule
 | Time     | Activity                                                     |
 |----------|--------------------------------------------------------------|
 | 9-9:30a  | Overview and Discussion of the Materials Data Facility (MDF) |
@@ -11,7 +11,7 @@
 | 10:45-11:15a   | Identification of Key Datasets and Metadata Formulation w/ Discussion |
 | 11:15a-12p  | Ingest demo datasets into MDF, more w/ Discussion              |
 
-#Resources
+# Resources
 * [Shared Google Doc](https://docs.google.com/document/d/1Nm4mCRo3JLZD8KW0mqwyBUCN6lHWfmKSkO-x6lmgZXw/edit?usp=sharing)
 * [Sign up for Globus](https://www.globus.org/SignUp)
 * [Create an Endpoint - Download GCP](https://www.globus.org/globus-connect-personal)
@@ -20,6 +20,9 @@
 * [Brief JSON Tutorial](http://www.w3schools.com/json/)
 * [Identification of Key Datasets, Assets, and Engagements](https://docs.google.com/document/d/1Nm4mCRo3JLZD8KW0mqwyBUCN6lHWfmKSkO-x6lmgZXw/edit?usp=sharing)
 
+
+# Before the Workshop
+No activity before the workshop is required, we will walk through install and generation of all relevant accounts during. However, if you wish to get started early, please sign up for a Globus account and set up a Globus Connect Personal endpoint on your laptop. (See links in Resources section)
 
 ### Links
 * Materials Data Facility: https://www.materialsdatafacility.org
