@@ -7,7 +7,7 @@
 | 9:30-10a | Sign up for Globus and MDF, Set up an Endpoint               |
 | 10-10:15a | Globus SDK Demo                                             |
 |10:15-10:30a| 15 minute break                                            |
-| 10:30-10:45a | JSON tutorial (may skip)                                 |
+| 10:30-10:45a | Submit a Dataset to MDF Demo                             |
 | 10:45-11:15a   | Identification of Key Datasets and Metadata Formulation w/ Discussion |
 | 11:15a-12p  | Ingest demo datasets into MDF, more w/ Discussion              |
 
